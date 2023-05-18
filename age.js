@@ -1,4 +1,4 @@
-var age=40
+var age=56
 function f1() {
 if (age>=18){
 console.log ("yes")
